@@ -1,1 +1,8 @@
 .ipynb_checkpoints
+# Example
+/materials
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
